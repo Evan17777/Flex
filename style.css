@@ -1,0 +1,22 @@
+.head{
+    font-family: 'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: purple;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 0%;
+    padding: 10px;
+}
+.body{
+    font-family:'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
+.flex-container{
+    display: flex;
+    border: 2px red;
+}
+.flex-container div {
+  background: rgb(157, 255, 138);
+  border: 4px solid rgb(255, 0, 0);
+  height: 100px;
+  flex: 1; 
+}
