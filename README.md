@@ -1,2 +1,2 @@
-# flex
+# Flex
 Flex box training
